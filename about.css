@@ -1,0 +1,21 @@
+body{
+    background-color:black ;
+    text-align: center;
+}
+*{
+    font: Playfair Display;
+    color: aliceblue;
+}
+
+p{
+    color: white;
+    font-size: medium;
+}
+hr{
+    border-color:red;
+    border-width: 2px;
+}
+img{
+    border: gold solid 10px;
+    align-self: center;
+}
